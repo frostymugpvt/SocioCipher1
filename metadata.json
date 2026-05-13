@@ -1,0 +1,6 @@
+{
+  "name": "SocioCipher",
+  "description": "An ephemeral, anonymous messaging and secure discourse platform.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
